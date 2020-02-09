@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/strobej/SimpleTodo/issues"
   },
-  "homepage": "https://github.com/strobej/SimpleTodo#readme"
+  "homepage": "https://github.com/strobej/SimpleTodo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
