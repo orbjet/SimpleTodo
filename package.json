@@ -1,0 +1,19 @@
+{
+  "name": "simpletodo",
+  "version": "1.0.0",
+  "description": "A simple todo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strobej/SimpleTodo.git"
+  },
+  "author": "Selma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strobej/SimpleTodo/issues"
+  },
+  "homepage": "https://github.com/strobej/SimpleTodo#readme"
+}
